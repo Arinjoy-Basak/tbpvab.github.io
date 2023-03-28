@@ -48,8 +48,8 @@ menu:
     url:   /about/
   - title: Officers
     url:   /officers/
-  - title: AutoOfficers
-    url:   /officers-temp/
+  # - title: AutoOfficers
+  #   url:   /officers-temp/
   - title: Events
     url:   /events/
   - title: Links
