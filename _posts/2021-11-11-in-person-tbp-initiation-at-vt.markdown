@@ -3,6 +3,7 @@ layout: post
 title:  "In-Person TBP Initiation at Virginia Tech"
 date:   2021-11-11 20:00:00 -0400
 categories: events
+#tags: events chapter-events initiation homer-hickam
 ---
 
 __Written by [Julia Pimentel]({{ site.baseurl }}{% link officers/julia-pimentel.md %}),__

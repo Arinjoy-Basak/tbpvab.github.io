@@ -2,9 +2,6 @@
 layout: page
 title:  Candy Li
 permalink: /officer/candy-li
-name:  Candy Li
-position: Social Chair
-year: 2021-2022
 ---
 
 <div>
