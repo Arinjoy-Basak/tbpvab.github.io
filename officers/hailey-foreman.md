@@ -5,7 +5,7 @@ permalink: /officer/hailey-foreman
 name:  Hailey Foreman
 position: Social Chair
 year: 2022-2023
-
+regenerate: true
 ---
 
 <div>

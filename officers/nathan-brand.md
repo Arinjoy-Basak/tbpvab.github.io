@@ -5,7 +5,7 @@ permalink: /officer/nathan-brand
 name:  Nathan Brand
 position: Historian
 year: 2022-2023
-
+regenerate: true
 ---
 
 <div>

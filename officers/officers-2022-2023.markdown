@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Officers
-permalink: /officers/2021-2022
-year: 2021-2022
+permalink: /officers/2022-2023
+year: 2022-2023
 ---
 
 {% for board in site.data.yearly-positions %}

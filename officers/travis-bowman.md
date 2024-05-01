@@ -5,6 +5,7 @@ permalink: /officer/travis-bowman
 name:  Travis Bowman
 position: President
 year: 2021-2022
+regenerate: true
 ---
 
 <div>
