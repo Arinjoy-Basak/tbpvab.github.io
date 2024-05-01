@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Matt Brown
-permalink: /officer/matt-brown
+permalink: /officers/matt-brown
 year: 2022-2023
 regenerate: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Ayden Cohn
-permalink: /officer/ayden-cohn
+permalink: /officers/ayden-cohn
 year: 2021-2022
 regenerate: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Hailey Foreman
-permalink: /officer/hailey-foreman
+permalink: /officers/hailey-foreman
 name:  Hailey Foreman
 position: Social Chair
 year: 2022-2023

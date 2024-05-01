@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Bruce Barbour
-permalink: /officer/bruce-barbour
+permalink: /officers/bruce-barbour
 year: 2022-2023
 regenerate: true
 ---

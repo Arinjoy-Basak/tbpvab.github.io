@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Nathan Brand
-permalink: /officer/nathan-brand
+permalink: /officers/nathan-brand
 name:  Nathan Brand
 position: Historian
 year: 2022-2023

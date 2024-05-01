@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Cody Blankenship
-permalink: /officer/cody-blankenship
+permalink: /officers/cody-blankenship
 name:  Cody Blankenship
 # year: 2021-2022 2022-2023
 regenerate: true

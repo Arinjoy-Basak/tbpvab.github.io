@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Mackenzie Gehringer
-permalink: /officer/mackenzie-gehringer
+permalink: /officers/mackenzie-gehringer
 year: 2022-2023
 regenerate: true
 ---

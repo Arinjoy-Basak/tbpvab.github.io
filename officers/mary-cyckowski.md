@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Mary Cyckowski
-permalink: /officer/mary-cyckowski
+permalink: /officers/mary-cyckowski
 name:  Mary Cyckowski
 position: Officer
 year: 2022-2023

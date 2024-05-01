@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Justin Hartman
-permalink: /officer/justin-hartman
+permalink: /officers/justin-hartman
 year: 2021-2022
 regenerate: true
 ---

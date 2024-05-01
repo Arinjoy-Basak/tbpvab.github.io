@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Lili Zeblium
-permalink: /officer/lili-zeblium
+permalink: /officers/lili-zeblium
 year: 2022-2023 2023-2024
 regenerate: true
 ---

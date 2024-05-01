@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Christie Ridgeway
-permalink: /officer/christie-ridgeway
+permalink: /officers/christie-ridgeway
 name:  Christie Ridgeway
 year: 2021-2022 Fall
 regenerate: true

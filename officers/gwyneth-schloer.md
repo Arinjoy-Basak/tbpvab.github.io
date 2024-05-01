@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Gwyneth Schloer
-permalink: /officer/gwyneth-schloer
+permalink: /officers/gwyneth-schloer
 name:  Gwyneth Schloer
 position: President
 year: 2022-2023

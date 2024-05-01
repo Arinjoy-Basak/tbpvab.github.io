@@ -12,7 +12,7 @@ year: 2021-2022
   {% assign person-name = position[1] %}
   <img class="headshot" src="{{ site.baseurl }}/uploads/headshots/{{ person-name }}.jpg">
   
-  [{{ site.data.sitewide.positions-details[position-name] }} - {{ site.data.officers[person-name].name }}]({{ site.baseurl }}/officer/{{ person-name }})
+  [{{ site.data.sitewide.positions-details[position-name] }} - {{ site.data.officers[person-name].name }}]({{ site.baseurl }}/officers/{{ person-name }})
 
   {% endfor %}
   {% endif %}
